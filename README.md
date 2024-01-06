@@ -1,6 +1,6 @@
 <h3 align="center">I am a Full-Stack Engineer from Louisiana, United States who has experience and loves to work in Java, Go, C#, Javascript/Typescript among other languages. </h3>
 
-<h4 align="center">I have over 6 years experience as a software engineer working on different domains and taking on different roles like back end , full stack development, devops and team lead and Im currently doing my masters in Computer Science (Data Science) from Southeastern Louisiana University. </h4>
+<h4 align="center">I have over 6 years experience as a software engineer working on different domains and taking on different roles like back end , full stack development, devops and team lead and I am currently doing my masters in Computer Science (Data Science) from Southeastern Louisiana University. </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
