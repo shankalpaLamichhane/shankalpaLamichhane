@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>I am a Full-Stack Engineer from Louisiana, United States</h3>
+  <h3>I am a Senior Software Engineer from Louisiana, United States super passionate for architecting ultra low latency, high scale enterprise applications</h3>
   <h4>Experience and passion for Java, Go, and JavaScript/TypeScript.</h4>
   <p>Over 10 years of experience across backend, full-stack, DevOps, and Team Lead roles. <br> Masters in Computer Science (Data Science) from Southeastern Louisiana University.</p>
 </div>
